@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">FrozenFood</string>
+
+    <string name="sosis">
+        Sosis fresh
+    </string>
+
+    <string name="kentang">
+        Kentang goreng fresh
+    </string>
+
+    <string name="bakso">
+        Bakso fresh
+    </string>
+
+    <string name="nugget">
+        Nugget fresh
+    </string>
+
+    <string name="tempura">
+        Tempura Fresh
+    </string>
+
+    <string name="kacangPolong">
+        Kacang polong fresh
+    </string>
+
+    <string name="dagingSlice">
+        Daging slice dengan kualitas terbaik
+    </string>
+
+    <string name="otakOtak">
+        Otak-otak ikan fresh
+    </string>
+
+    <string name="siomay">
+        Siomay dengan isian ikan fresh
+    </string>
+
+</resources>
