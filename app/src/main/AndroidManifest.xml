@@ -13,20 +13,42 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FrozenFood">
         <activity
-            android:name=".SummaryActivity"
-            android:exported="true" />
-        <activity
-            android:name=".InfoActivity"
-            android:exported="true" />
-        <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name=".HalamanDepan"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="org.aplas.frozenfood.makanan.KentangActivity"
+            android:exported="true" />
+        <activity
+            android:name="org.aplas.frozenfood.makanan.BaksoActivity"
+            android:exported="true" />
+        <activity
+            android:name="org.aplas.frozenfood.makanan.UdangActivity"
+            android:exported="true" />
+        <activity
+            android:name="org.aplas.frozenfood.makanan.TempuraActivity"
+            android:exported="true" />
+        <activity
+            android:name="org.aplas.frozenfood.makanan.AyamActivity"
+            android:exported="true" />
+        <activity
+            android:name="org.aplas.frozenfood.makanan.DagingActivity"
+            android:exported="true" />
+        <activity
+            android:name="org.aplas.frozenfood.makanan.InfoActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SummaryActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"/>
+
 
         <provider
             android:authorities="org.aplas.frozenfood"

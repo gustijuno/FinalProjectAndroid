@@ -1,40 +1,49 @@
 <resources>
-    <string name="app_name">FrozenFood</string>
+    <string name="app_name">Menu Grill</string>
 
     <string name="sosis">
-        Sosis fresh
+        Rp.10.000
     </string>
 
     <string name="kentang">
-        Kentang goreng fresh
+        Rp.10.000
     </string>
 
     <string name="bakso">
-        Bakso fresh
+        Rp.20.000
     </string>
 
-    <string name="nugget">
-        Nugget fresh
+    <string name="udang">
+        Rp.30.000
     </string>
 
     <string name="tempura">
-        Tempura Fresh
+        Rp.10.000
     </string>
 
-    <string name="kacangPolong">
-        Kacang polong fresh
+    <string name="ayam">
+        Rp.30.000
     </string>
 
     <string name="dagingSlice">
-        Daging slice dengan kualitas terbaik
+        Rp.40.000
     </string>
 
     <string name="otakOtak">
-        Otak-otak ikan fresh
+        Rp.20.000
     </string>
 
     <string name="siomay">
-        Siomay dengan isian ikan fresh
+        Rp.20.000
     </string>
+    <string name="title_activity_front_page">FrontPage</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
 </resources>
